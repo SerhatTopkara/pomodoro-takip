@@ -1,0 +1,38 @@
+# Python derleme dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sanal ortam klasörü
+venv/
+.env/
+.venv/
+
+# VS Code ayarları
+.vscode/
+
+# PyCharm veya diğer IDE ayarları
+.idea/
+
+# Veritabanı dosyaları
+*.db
+*.sqlite3
+
+# Log dosyaları
+*.log
+
+# Mac ve Windows sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Matplotlib cache
+.matplotlib/
+
+# Test çıktıları
+htmlcov/
+coverage.xml
+*.cover
+*.py,cover
+
+# Pip freeze ile oluşturulan dosya (eğer varsa)
+requirements.txt
