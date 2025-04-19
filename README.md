@@ -29,7 +29,7 @@ Pomodoro tekniği ile çalışma veriminizi artırın ve gün içindeki çalış
 
 1. Depoyu klonlayın:
 ```bash
-git clone https://github.com/kullaniciadi/pomodoro-takip.git
+git clone https://github.com/SerhatTopkara/pomodoro-takip.git
 cd pomodoro-takip
 ```
 
